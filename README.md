@@ -1,7 +1,7 @@
 # 🏦 Predicción de Riesgo de Crédito (Loan Default Prediction)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FnyLytdXnTyRDrRixAGK30p5nUUHRkDX?usp=sharing)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+
 
 
 ## 📌 Descripción del Proyecto
@@ -56,15 +56,3 @@ Utilizando la métrica de ganancia de información (*Gain*), el modelo reveló q
 ## 🚀 Conclusiones y Recomendación
 
 Se recomienda implementar el modelo **XGBoost (Undersampled)**. Con un **Recall del 84%**, este modelo ofrece el mejor equilibrio para proteger el capital del banco. Se sugiere utilizar el score del modelo no como una decisión de rechazo automático, sino como un filtro para derivar solicitudes de alto riesgo a una revisión manual exhaustiva o para exigir mayores garantías.
-
-## 💻 Cómo ejecutar este proyecto
-
-Puedes visualizar y ejecutar el código directamente en Google Colab sin necesidad de instalación local:
-
-[**Ver Notebook en Google Colab**](https://colab.research.google.com/drive/1FnyLytdXnTyRDrRixAGK30p5nUUHRkDX?usp=sharing)
-
-Si prefieres correrlo localmente:
-```bash
-git clone [https://github.com/TU_USUARIO/Loan-Prediction-Portfolio.git](https://github.com/TU_USUARIO/Loan-Prediction-Portfolio.git)
-pip install -r requirements.txt
-jupyter notebook

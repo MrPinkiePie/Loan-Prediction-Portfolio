@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FnyLytdXnTyRDrRixAGK30p5nUUHRkDX?usp=sharing)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+
 
 ## 📌 Descripción del Proyecto
 
